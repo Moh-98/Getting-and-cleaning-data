@@ -1,0 +1,5 @@
+Description of the files:
+
+"Subject" txt files: are the subjects who performed activity test&train
+"p" txt files: contain Data Sets Test&Train
+"q" txt files: contain Labels Test&Train
